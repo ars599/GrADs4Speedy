@@ -6,15 +6,15 @@
 Original version was developed by: Fred Kucharski, Franco Molteni, and Martin P. King
 
 Note prepared by AY Huang <<National Taiwan Ocean University//University of Taipei//Oregon University>>
-Upload and menttain by A. Sullivan
+Upload and maintain  by A. Sullivan
 
 ## 1. Make sure that the “NetCDF” file you made satisfies the reading regulation of GrADS
 If you have a message of “SDF file has no discernable X coordinate,” please refer to Figure 1.
 
 
-** The problem of variables attributes
+** The problem of variables attributes **
 
-** Figure 1 GrADS can not use sdfopen to read & GrADS can use sdfopen to read
+** Figure 1 GrADS can not use sdfopen to read & GrADS can use sdfopen to read **
 
 ![](https://github.com/ars599/GrADs4Speedy/blob/main/Picture1.png)
 
