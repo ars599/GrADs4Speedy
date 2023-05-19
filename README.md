@@ -1,10 +1,12 @@
 
 
-# How to save topography data with “grd” format in SPEEDY
-Step-by-Step Instruction
+# How to save topography data with “grd” format in SPEEDY Step-by-Step Instruction
 
 ## ** SPEEDY version: 41 **
 Original version was developed by: Fred Kucharski, Franco Molteni, and Martin P. King
+
+Note prepared by AY Huang <<National Taiwan Ocean University//University of Taipei//Oregon University>>
+Upload and menttain by A. Sullivan
 
 ## 1. Make sure that the “NetCDF” file you made satisfies the reading regulation of GrADS
 If you have a message of “SDF file has no discernable X coordinate,” please refer to Figure 1.
