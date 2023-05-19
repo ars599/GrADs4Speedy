@@ -14,7 +14,7 @@ If you have a message of “SDF file has no discernable X coordinate,” please 
 
 ** Figure 1 GrADS can not use sdfopen to read & GrADS can use sdfopen to read
 
-![](https://github.com/ars599/ESMVal_Examples/blob/main/recipe_perfmetrics_CMIP56_simple_v3_working/plots/collect/RMSD/Picture1.png)
+![](https://github.com/ars599/GrADs4Speedy/blob/main/Picture1.png)
 
 
 ## 2. Creat “grd” file by using GrADS: step1_write_nc2grd.gs
@@ -30,7 +30,7 @@ In addition, you will need to copy a “ctl” file for next step.
 
 ** Figure 2 The “ctl” file used in the next step
 
-![](https://github.com/ars599/ESMVal_Examples/blob/main/recipe_perfmetrics_CMIP56_simple_v3_working/plots/collect/RMSD/Picture2.png)
+![](https://github.com/ars599/GrADs4Speedy/blob/main/Picture2.png)
 
 ## 3. Reverse y-dir by using GrADS: step2_reverse_ydir.gs
 Using GrADS to read in “grd” file with the “ctl” file we created in previous step.
